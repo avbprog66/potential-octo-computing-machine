@@ -1,9 +1,11 @@
 {
     "name": "potential-octo-computing-machine",
-    "description": "gotofreedom",
-    
+    "description": "nowar",
     "env": {
         "PASSWORD": {
-            "description":"PASSWORD"
+            "description": "PASSWORD",
             "value": "password"
         }
+    },
+    "stack": "container"
+}
