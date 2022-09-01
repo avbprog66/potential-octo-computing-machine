@@ -5,8 +5,8 @@
         "PASSWORD": {
             "description": "PASSWORD",
             "value": "password"
-        }
-        "stack": "container"
+"stack": "container"
 }
+
 
 
