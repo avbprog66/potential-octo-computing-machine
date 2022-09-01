@@ -1,11 +1,10 @@
 {
     "name": "potential-octo-computing-machine",
-    "description": "nowar",
+    "description": "For 4PDA",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
             "value": "password"
         }
-    },
-    "stack": "container"
-}
+    
+
